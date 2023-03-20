@@ -24,10 +24,10 @@ public class SplashActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-            FirebaseGetId();
+        GetId();
     }
 
-    private void FirebaseGetId() {
+    private void GetId() {
         if (isOnline()) {
             SplashHelp.splash_next("Test", "1", this, new Intent(this, MainActivity.class));
             return;
@@ -51,7 +51,7 @@ public class SplashActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 dialog.dismiss();
-                FirebaseGetId();
+                GetId();
             }
         });
 

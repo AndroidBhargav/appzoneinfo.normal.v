@@ -4,11 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/32a750d755c6b8c2130c26bbb885ccd0/transformed/jetified-sdk-interface-4.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de421273d9045e84297eeb088c14124a/transformed/sdk-interface-4.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/749e0d5e9b240edaadd2ecae2a017be5/transformed/sdk-interface-4.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/32a750d755c6b8c2130c26bbb885ccd0/transformed/jetified-sdk-interface-4.0.0/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/32a750d755c6b8c2130c26bbb885ccd0/transformed/jetified-sdk-interface-4.0.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/32a750d755c6b8c2130c26bbb885ccd0/transformed/jetified-sdk-interface-4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/32a750d755c6b8c2130c26bbb885ccd0/transformed/jetified-sdk-interface-4.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

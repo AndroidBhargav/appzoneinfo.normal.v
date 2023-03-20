@@ -8,8 +8,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.telephony.TelephonyManager;
-import android.util.Log;
-import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -487,9 +485,7 @@ public class SplashHelp extends AppCompatActivity {
                 BaseActivity.vpn_connection((Activity) contextx, new BaseActivity.vpn_callback() {
                     @Override
                     public void vpn_final_callback(String s) {
-                        if (s.equals("success")) {
-                            ShowADS();
-                        }
+                        ShowADS();
                     }
                 });
             }
