@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AnchorFree.hydra-vpn-android:networking:d8dd1f8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/34398a6abe55d7a062701baa63194904/transformed/networking-d8dd1f8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/34398a6abe55d7a062701baa63194904/transformed/networking-d8dd1f8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/34398a6abe55d7a062701baa63194904/transformed/networking-d8dd1f8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

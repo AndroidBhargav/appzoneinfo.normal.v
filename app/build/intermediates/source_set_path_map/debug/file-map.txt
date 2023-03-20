@@ -1,0 +1,53 @@
+com.appzoneinfo.vip.app-browser-1.4.0-0 C:\Users\Administrator\.gradle\caches\transforms-3\048abb5d01fee1614633e357f9ba2ab7\transformed\browser-1.4.0\res
+com.appzoneinfo.vip.app-applovin-sdk-11.8.2-1 C:\Users\Administrator\.gradle\caches\transforms-3\0a9a5e4d96745a988f4fcfe8da362192\transformed\applovin-sdk-11.8.2\res
+com.appzoneinfo.vip.app-core-1.7.0-2 C:\Users\Administrator\.gradle\caches\transforms-3\0c734a8f9451ded3159b05d46fc9a23a\transformed\core-1.7.0\res
+com.appzoneinfo.vip.app-glide-4.11.0-3 C:\Users\Administrator\.gradle\caches\transforms-3\13d4f57912fcdc3183cc004a4a883a89\transformed\glide-4.11.0\res
+com.appzoneinfo.vip.app-service-reconnect-d8dd1f8-4 C:\Users\Administrator\.gradle\caches\transforms-3\14e50a6b1b8f1f9f204d02b6446fe74e\transformed\service-reconnect-d8dd1f8\res
+com.appzoneinfo.vip.app-sqlite-2.3.0-alpha02-5 C:\Users\Administrator\.gradle\caches\transforms-3\1f8c864fada21841cf5d186868f64646\transformed\sqlite-2.3.0-alpha02\res
+com.appzoneinfo.vip.app-work-runtime-2.8.0-alpha02-6 C:\Users\Administrator\.gradle\caches\transforms-3\23b1a1a9efa22128d838c50ac523a386\transformed\work-runtime-2.8.0-alpha02\res
+com.appzoneinfo.vip.app-lifecycle-runtime-2.5.1-7 C:\Users\Administrator\.gradle\caches\transforms-3\2805ee03bf31be31fdf16bad4c3aa5a5\transformed\lifecycle-runtime-2.5.1\res
+com.appzoneinfo.vip.app-fragment-1.3.6-8 C:\Users\Administrator\.gradle\caches\transforms-3\29bdfe4f1619e457b1b22ec172982bb4\transformed\fragment-1.3.6\res
+com.appzoneinfo.vip.app-annotation-experimental-1.1.0-9 C:\Users\Administrator\.gradle\caches\transforms-3\2af33ecfc53e92df0b334d3008fd6eb8\transformed\annotation-experimental-1.1.0\res
+com.appzoneinfo.vip.app-sqlite-framework-2.3.0-alpha02-10 C:\Users\Administrator\.gradle\caches\transforms-3\2cf030d7611abb10ece2d5ac8cf890fe\transformed\sqlite-framework-2.3.0-alpha02\res
+com.appzoneinfo.vip.app-lottie-4.2.2-11 C:\Users\Administrator\.gradle\caches\transforms-3\32e3195ef3db3cc51ec9deb0c16b086d\transformed\lottie-4.2.2\res
+com.appzoneinfo.vip.app-transition-1.2.0-12 C:\Users\Administrator\.gradle\caches\transforms-3\44f59b81c87b69ad5a2c3b803c83780d\transformed\transition-1.2.0\res
+com.appzoneinfo.vip.app-service-config-d8dd1f8-13 C:\Users\Administrator\.gradle\caches\transforms-3\4dbe2c267122ad51e5659766d871c882\transformed\service-config-d8dd1f8\res
+com.appzoneinfo.vip.app-toolkit-2.0.2-14 C:\Users\Administrator\.gradle\caches\transforms-3\5176012955e2ed4dd3e596d602e658bc\transformed\toolkit-2.0.2\res
+com.appzoneinfo.vip.app-sdk-core-4.0.0-15 C:\Users\Administrator\.gradle\caches\transforms-3\52a1d37fa6a499e369a95a1058c3ab7d\transformed\sdk-core-4.0.0\res
+com.appzoneinfo.vip.app-viewpager2-1.0.0-16 C:\Users\Administrator\.gradle\caches\transforms-3\558a376c9715ce970c82065b28321b39\transformed\viewpager2-1.0.0\res
+com.appzoneinfo.vip.app-ucr-analytics-4.0.0-17 C:\Users\Administrator\.gradle\caches\transforms-3\5fe18b6f4680a0a00a2476303027e949\transformed\ucr-analytics-4.0.0\res
+com.appzoneinfo.vip.app-hydra-4.0.0-18 C:\Users\Administrator\.gradle\caches\transforms-3\6d1315ec38e58947cde20ba3e290c57d\transformed\hydra-4.0.0\res
+com.appzoneinfo.vip.app-openvpn-4.0.0-19 C:\Users\Administrator\.gradle\caches\transforms-3\6f8b107b3f2ab342400f724a45742b9f\transformed\openvpn-4.0.0\res
+com.appzoneinfo.vip.app-service-d8dd1f8-20 C:\Users\Administrator\.gradle\caches\transforms-3\7aa508d703670fa03aa5d7669536408e\transformed\service-d8dd1f8\res
+com.appzoneinfo.vip.app-cardview-1.0.0-21 C:\Users\Administrator\.gradle\caches\transforms-3\7c7a8c29ecce42e20d903e3a51f8df85\transformed\cardview-1.0.0\res
+com.appzoneinfo.vip.app-savedstate-1.1.0-22 C:\Users\Administrator\.gradle\caches\transforms-3\875969fcab760a2bfd8e26232a38f178\transformed\savedstate-1.1.0\res
+com.appzoneinfo.vip.app-play-services-ads-lite-21.3.0-23 C:\Users\Administrator\.gradle\caches\transforms-3\8961a67b9e1d3e3fc1e93a108ffd2a93\transformed\play-services-ads-lite-21.3.0\res
+com.appzoneinfo.vip.app-coordinatorlayout-1.1.0-24 C:\Users\Administrator\.gradle\caches\transforms-3\8a6303413022a75475e0d43fea7dc5ec\transformed\coordinatorlayout-1.1.0\res
+com.appzoneinfo.vip.app-constraintlayout-2.1.4-25 C:\Users\Administrator\.gradle\caches\transforms-3\8ad4b0562467dfb6f3cd10869bd03e3f\transformed\constraintlayout-2.1.4\res
+com.appzoneinfo.vip.app-lifecycle-process-2.4.0-26 C:\Users\Administrator\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\res
+com.appzoneinfo.vip.app-emoji2-1.0.0-27 C:\Users\Administrator\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\res
+com.appzoneinfo.vip.app-startup-runtime-1.0.0-28 C:\Users\Administrator\.gradle\caches\transforms-3\a35ffcfc54aa0bc9044e6dad0d1c1a4b\transformed\startup-runtime-1.0.0\res
+com.appzoneinfo.vip.app-work-runtime-ktx-2.8.0-alpha02-29 C:\Users\Administrator\.gradle\caches\transforms-3\aa76eb2ece5b4d531ed0cac9a796f551\transformed\work-runtime-ktx-2.8.0-alpha02\res
+com.appzoneinfo.vip.app-sdk-analytics-4.0.0-30 C:\Users\Administrator\.gradle\caches\transforms-3\ade0c522e2baddd1be8af05acba81769\transformed\sdk-analytics-4.0.0\res
+com.appzoneinfo.vip.app-sdk-reconnection-4.0.0-31 C:\Users\Administrator\.gradle\caches\transforms-3\b45c020283a78009f0295d14cc8cffff\transformed\sdk-reconnection-4.0.0\res
+com.appzoneinfo.vip.app-play-services-basement-18.0.0-32 C:\Users\Administrator\.gradle\caches\transforms-3\b47fa07eeab5eb3a3e29169c35af0d8e\transformed\play-services-basement-18.0.0\res
+com.appzoneinfo.vip.app-corevpn-d8dd1f8-33 C:\Users\Administrator\.gradle\caches\transforms-3\b4cdc402292edc82b096ecbe14bae618\transformed\corevpn-d8dd1f8\res
+com.appzoneinfo.vip.app-material-1.6.1-34 C:\Users\Administrator\.gradle\caches\transforms-3\bfec8dfcaf6c34e166a516bbd7a3f400\transformed\material-1.6.1\res
+com.appzoneinfo.vip.app-play-services-base-18.0.0-35 C:\Users\Administrator\.gradle\caches\transforms-3\c34b59205dcfbf16f00faa10dfc06db5\transformed\play-services-base-18.0.0\res
+com.appzoneinfo.vip.app-emoji2-views-helper-1.0.0-36 C:\Users\Administrator\.gradle\caches\transforms-3\c954256298e03fa9e55aff6bfaab3a2f\transformed\emoji2-views-helper-1.0.0\res
+com.appzoneinfo.vip.app-appcompat-resources-1.4.2-37 C:\Users\Administrator\.gradle\caches\transforms-3\ce21111078a168e50a2a640a6bb0ae35\transformed\appcompat-resources-1.4.2\res
+com.appzoneinfo.vip.app-recyclerview-1.1.0-38 C:\Users\Administrator\.gradle\caches\transforms-3\d55f9b1c6cb2370e24af439e7aff662a\transformed\recyclerview-1.1.0\res
+com.appzoneinfo.vip.app-lifecycle-viewmodel-2.3.1-39 C:\Users\Administrator\.gradle\caches\transforms-3\d6364469d2dca85a8f85e8beeb73ccf4\transformed\lifecycle-viewmodel-2.3.1\res
+com.appzoneinfo.vip.app-play-services-ads-21.3.0-40 C:\Users\Administrator\.gradle\caches\transforms-3\da6ee3c27476aa0a90188067162c40f2\transformed\play-services-ads-21.3.0\res
+com.appzoneinfo.vip.app-room-runtime-2.4.0-rc01-41 C:\Users\Administrator\.gradle\caches\transforms-3\e71262c94966fedacf41369cd9f04d26\transformed\room-runtime-2.4.0-rc01\res
+com.appzoneinfo.vip.app-drawerlayout-1.1.1-42 C:\Users\Administrator\.gradle\caches\transforms-3\edcdf00559453ac5f7364b461524ff25\transformed\drawerlayout-1.1.1\res
+com.appzoneinfo.vip.app-appcompat-1.4.2-43 C:\Users\Administrator\.gradle\caches\transforms-3\f053ca72a4906620f9d7f529c412475e\transformed\appcompat-1.4.2\res
+com.appzoneinfo.vip.app-pngs-44 D:\Ads Code New\Vip Code\app\build\generated\res\pngs\debug
+com.appzoneinfo.vip.app-resValues-45 D:\Ads Code New\Vip Code\app\build\generated\res\resValues\debug
+com.appzoneinfo.vip.app-rs-46 D:\Ads Code New\Vip Code\app\build\generated\res\rs\debug
+com.appzoneinfo.vip.app-packageDebugResources-47 D:\Ads Code New\Vip Code\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.appzoneinfo.vip.app-packageDebugResources-48 D:\Ads Code New\Vip Code\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.appzoneinfo.vip.app-merged_res-49 D:\Ads Code New\Vip Code\app\build\intermediates\merged_res\debug
+com.appzoneinfo.vip.app-debug-50 D:\Ads Code New\Vip Code\app\src\debug\res
+com.appzoneinfo.vip.app-main-51 D:\Ads Code New\Vip Code\app\src\main\res
+com.appzoneinfo.vip.app-packaged_res-52 D:\Ads Code New\Vip Code\mylibrarys\build\intermediates\packaged_res\debug

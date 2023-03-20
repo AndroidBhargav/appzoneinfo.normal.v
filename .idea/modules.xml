@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ads_Project.iml" filepath="$PROJECT_DIR$/.idea/modules/Ads_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ads_Project.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ads_Project.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ads_Project.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ads_Project.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ads_Project.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ads_Project.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ads_Project.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ads_Project.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrarys/Ads_Project.mylibrarys.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrarys/Ads_Project.mylibrarys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrarys/Ads_Project.mylibrarys.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrarys/Ads_Project.mylibrarys.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrarys/Ads_Project.mylibrarys.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrarys/Ads_Project.mylibrarys.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrarys/Ads_Project.mylibrarys.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrarys/Ads_Project.mylibrarys.unitTest.iml" />
+    </modules>
+  </component>
+</project>

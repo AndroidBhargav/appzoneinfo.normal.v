@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable_updateapp.png.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/drawable/updateapp.png"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/layout_activity_main.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/layout_ad_mix_native.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/layout/ad_mix_native.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/layout_exit_screen.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/layout/exit_screen.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/layout_ad_banner_ad_view.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/layout/ad_banner_ad_view.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.appzoneinfo.vip.app-pngs-44:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable_boader.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/drawable/boader.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable_c_nine.gif.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/drawable/c_nine.gif"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.appzoneinfo.vip.app-pngs-44:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/layout_back_dialog_exit.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/layout/back_dialog_exit.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/layout_activity_testing.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/layout/activity_testing.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/layout_activity_splash.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.appzoneinfo.vip.app-pngs-44:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.appzoneinfo.vip.app-pngs-44:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.appzoneinfo.vip.app-pngs-44:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.appzoneinfo.vip.app-pngs-44:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.appzoneinfo.vip.app-pngs-44:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable_close_bg.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/drawable/close_bg.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable_close.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/drawable/close.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable_roundads.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/drawable/roundads.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/xml_data_extraction_rules.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable_app_btn.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/drawable/app_btn.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/drawable_exit_btn.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/drawable/exit_btn.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/layout_no_internet_item.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/layout/no_internet_item.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/xml_backup_rules.xml.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.appzoneinfo.vip.app-merged_res-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.appzoneinfo.vip.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]

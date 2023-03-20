@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AnchorFree.hydra-vpn-android:logger:d8dd1f8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c25493b903a5af5aaf65173f1e986a4a/transformed/logger-d8dd1f8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c25493b903a5af5aaf65173f1e986a4a/transformed/logger-d8dd1f8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c25493b903a5af5aaf65173f1e986a4a/transformed/logger-d8dd1f8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

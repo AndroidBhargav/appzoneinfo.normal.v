@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AnchorFree.hydra-vpn-android:openvpn-transport:d8dd1f8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e82b4aa18170ab3e7f2cad2d444d9472/transformed/openvpn-transport-d8dd1f8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e82b4aa18170ab3e7f2cad2d444d9472/transformed/openvpn-transport-d8dd1f8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e82b4aa18170ab3e7f2cad2d444d9472/transformed/openvpn-transport-d8dd1f8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
