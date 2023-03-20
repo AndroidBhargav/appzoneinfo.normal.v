@@ -1,9 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnchorFree.hydra-vpn-android:aar-hydra:d8dd1f8@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1e4a306ba95f4f774fc82f40e34bbd0a/transformed/aar-hydra-d8dd1f8/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1e4a306ba95f4f774fc82f40e34bbd0a/transformed/aar-hydra-d8dd1f8/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1e4a306ba95f4f774fc82f40e34bbd0a/transformed/aar-hydra-d8dd1f8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fc16d6e171a35558d7073e9b1ad670da/transformed/aar-hydra-d8dd1f8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bef12a728a1c239ae056af9034806b5f/transformed/jetified-aar-hydra-d8dd1f8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bef12a728a1c239ae056af9034806b5f/transformed/jetified-aar-hydra-d8dd1f8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bef12a728a1c239ae056af9034806b5f/transformed/jetified-aar-hydra-d8dd1f8/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

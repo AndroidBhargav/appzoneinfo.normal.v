@@ -1,9 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnchorFree.hydra-vpn-android:service-transport:d8dd1f8@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/03e260e1e6dbf615fe28d17093665670/transformed/service-transport-d8dd1f8/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/03e260e1e6dbf615fe28d17093665670/transformed/service-transport-d8dd1f8/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/03e260e1e6dbf615fe28d17093665670/transformed/service-transport-d8dd1f8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/754d4486c9cb19ba4dae5a99d7ace438/transformed/service-transport-d8dd1f8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ddaca32a2de549786209bddd4b1bdaf7/transformed/jetified-service-transport-d8dd1f8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ddaca32a2de549786209bddd4b1bdaf7/transformed/jetified-service-transport-d8dd1f8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ddaca32a2de549786209bddd4b1bdaf7/transformed/jetified-service-transport-d8dd1f8/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,9 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnchorFreePartner.hydra-sdk-android:observable:4.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0c4a61e58ac789e70ad691e1128e169d/transformed/observable-4.0.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0c4a61e58ac789e70ad691e1128e169d/transformed/observable-4.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0c4a61e58ac789e70ad691e1128e169d/transformed/observable-4.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cd9bf1f1216595e810e674055b5be5cb/transformed/observable-4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/85b84edf2692a9a7ed95775fd8b34060/transformed/jetified-observable-4.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/85b84edf2692a9a7ed95775fd8b34060/transformed/jetified-observable-4.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/85b84edf2692a9a7ed95775fd8b34060/transformed/jetified-observable-4.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

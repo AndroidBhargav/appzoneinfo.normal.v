@@ -1,9 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnchorFree.hydra-vpn-android:probe:d8dd1f8@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5bc310c708a0255d9b0bff49085a262d/transformed/probe-d8dd1f8/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5bc310c708a0255d9b0bff49085a262d/transformed/probe-d8dd1f8/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5bc310c708a0255d9b0bff49085a262d/transformed/probe-d8dd1f8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0487848f75ec1180950cd7b9e8af5706/transformed/probe-d8dd1f8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5c8fadec5f27972c92b349003683421f/transformed/jetified-probe-d8dd1f8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5c8fadec5f27972c92b349003683421f/transformed/jetified-probe-d8dd1f8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5c8fadec5f27972c92b349003683421f/transformed/jetified-probe-d8dd1f8/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

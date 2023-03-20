@@ -1,12 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnchorFree.hydra-vpn-android:hydratransport:d8dd1f8@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a331f3ccc4a3899ebdb5854af091ce24/transformed/hydratransport-d8dd1f8/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/eb37585ca569cf2b6663336f45e055ac/transformed/jetified-hydratransport-d8dd1f8/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a331f3ccc4a3899ebdb5854af091ce24/transformed/hydratransport-d8dd1f8/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a331f3ccc4a3899ebdb5854af091ce24/transformed/hydratransport-d8dd1f8/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a331f3ccc4a3899ebdb5854af091ce24/transformed/hydratransport-d8dd1f8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9ca20e61438bc95366370d85390e32e9/transformed/hydratransport-d8dd1f8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eb37585ca569cf2b6663336f45e055ac/transformed/jetified-hydratransport-d8dd1f8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/eb37585ca569cf2b6663336f45e055ac/transformed/jetified-hydratransport-d8dd1f8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eb37585ca569cf2b6663336f45e055ac/transformed/jetified-hydratransport-d8dd1f8/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
