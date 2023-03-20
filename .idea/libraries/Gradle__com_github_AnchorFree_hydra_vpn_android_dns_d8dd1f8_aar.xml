@@ -1,11 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnchorFree.hydra-vpn-android:dns:d8dd1f8@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af2cbe4d77a2d217fa2fd30d6f30f422/transformed/dns-d8dd1f8/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e24fd4eb31f0566f1d45d93bb4d98b14/transformed/dns-d8dd1f8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d72ab0aa12fdeab21d05c6884bfd3f79/transformed/jetified-dns-d8dd1f8/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d72ab0aa12fdeab21d05c6884bfd3f79/transformed/jetified-dns-d8dd1f8/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d72ab0aa12fdeab21d05c6884bfd3f79/transformed/jetified-dns-d8dd1f8/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d72ab0aa12fdeab21d05c6884bfd3f79/transformed/jetified-dns-d8dd1f8/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

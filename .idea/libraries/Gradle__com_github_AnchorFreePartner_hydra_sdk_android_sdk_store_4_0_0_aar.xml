@@ -1,8 +1,6 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnchorFreePartner.hydra-sdk-android:sdk-store:4.0.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/10dbeea8bad331f0d6d4561b3f2ad9b2/transformed/sdk-store-4.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b8e818ad40391ae96c5cc9008d03bf7a/transformed/sdk-store-4.0.0/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ebaa29d1651c9048a7f3a119806c7a40/transformed/jetified-sdk-store-4.0.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ebaa29d1651c9048a7f3a119806c7a40/transformed/jetified-sdk-store-4.0.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ebaa29d1651c9048a7f3a119806c7a40/transformed/jetified-sdk-store-4.0.0/AndroidManifest.xml" />

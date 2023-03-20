@@ -1,14 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.unity3d.ads:unity-ads:4.1.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8751b716477eafdf6e7cda5be3f6f5c8/transformed/unity-ads-4.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/81695bcb8e4867a1ccad439c9859c7bd/transformed/unity-ads-4.1.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b163479ce18dc71f42ad889fad5c6204/transformed/jetified-unity-ads-4.1.0/jars/libs/unity-scaradapter-2000.jar!/" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b163479ce18dc71f42ad889fad5c6204/transformed/jetified-unity-ads-4.1.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b163479ce18dc71f42ad889fad5c6204/transformed/jetified-unity-ads-4.1.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b163479ce18dc71f42ad889fad5c6204/transformed/jetified-unity-ads-4.1.0/jars/libs/unity-scaradapter-common.jar!/" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b163479ce18dc71f42ad889fad5c6204/transformed/jetified-unity-ads-4.1.0/jars/libs/unity-scaradapter-1920.jar!/" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b163479ce18dc71f42ad889fad5c6204/transformed/jetified-unity-ads-4.1.0/jars/libs/unity-scaradapter-1950.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b163479ce18dc71f42ad889fad5c6204/transformed/jetified-unity-ads-4.1.0/jars/libs/unity-scaradapter-2000.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b163479ce18dc71f42ad889fad5c6204/transformed/jetified-unity-ads-4.1.0/jars/libs/unity-scaradapter-common.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b163479ce18dc71f42ad889fad5c6204/transformed/jetified-unity-ads-4.1.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b163479ce18dc71f42ad889fad5c6204/transformed/jetified-unity-ads-4.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
