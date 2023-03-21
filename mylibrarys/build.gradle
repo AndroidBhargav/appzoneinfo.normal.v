@@ -2,9 +2,42 @@ plugins {
     id 'com.android.library'
 }
 
+apply plugin: 'maven-publish'
+
+task sourceJar(type: Jar) {
+   from android.sourceSets.main.java.srcDirs
+   classifier "sources"
+}
+
+publishing {
+   publications {
+       bar(MavenPublication) {
+           groupId 'com.foo'
+           artifactId 'bar'
+           version '0.1'
+           artifact(sourceJar)
+           artifact("$buildDir/outputs/aar/bar-release.aar")
+       }
+   }
+   repositories {
+       maven {
+           url "$buildDir/repo"
+       }
+   }
+}
+
 def isLocalAppLovinWorkspace = file("../../../Android-SDK/build.gradle.kts").exists()
 
 android {
+
+    publishing {
+        multipleVariants {
+            withSourcesJar()
+            withJavadocJar()
+            allVariants()
+        }
+    }
+
     compileSdk 33
 
     defaultConfig {

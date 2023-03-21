@@ -6,6 +6,7 @@ import android.app.NotificationManager;
 import android.os.Build;
 import android.os.Bundle;
 
+import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -62,25 +63,25 @@ public class BaseActivity extends AppCompatActivity {
                 initHydraSdk();
             }
             unifiedSDK.getBackend().isLoggedIn(new Callback<Boolean>() {
-                public void success(Boolean bool) {
-                    if (bool.booleanValue()) {
+                public void success(@NonNull Boolean bool) {
+                    if (bool) {
                         connectToVpn(activity, vpn_callback);
                         return;
                     }
                     unifiedSDK.getBackend().login(AuthMethod.anonymous(), new Callback<User>() {
-                        public void success(User user) {
+                        public void success(@NonNull User user) {
                             connectToVpn(activity, vpn_callback);
                         }
 
                         @Override
-                        public void failure(VpnException vpnException) {
+                        public void failure(@NonNull VpnException vpnException) {
                             vpn_callback.vpn_final_callback("vpn_connection - login - try - fail - " + vpnException.getMessage());
                         }
                     });
                 }
 
                 @Override
-                public void failure(VpnException vpnException) {
+                public void failure(@NonNull VpnException vpnException) {
                     vpn_callback.vpn_final_callback("vpn_connection - check login fail - " + vpnException.getMessage());
                 }
             });
@@ -92,7 +93,7 @@ public class BaseActivity extends AppCompatActivity {
     public static void initHydraSdk() {
         UnifiedSdk.clearInstances();
         ClientInfo build = ClientInfo.newBuilder().addUrl(url).carrierId(id).build();
-        ArrayList arrayList = new ArrayList();
+        ArrayList<TransportConfig> arrayList = new ArrayList<TransportConfig>();
         arrayList.add(HydraTransportConfig.create());
         arrayList.add(OpenVpnTransportConfig.tcp());
         arrayList.add(OpenVpnTransportConfig.udp());
@@ -103,7 +104,7 @@ public class BaseActivity extends AppCompatActivity {
 
     public static void connectToVpn(Activity activity, vpn_callback vpn_callback) {
         UnifiedSdk.getVpnState(new Callback<VpnState>() {
-            public void success(VpnState vpnState) {
+            public void success(@NonNull VpnState vpnState) {
                 if (VpnState.CONNECTED == vpnState) {
                     UnifiedSdk.getInstance().getBackend().logout(new CompletableCallback() {
                         @Override
@@ -115,24 +116,24 @@ public class BaseActivity extends AppCompatActivity {
                                 }
 
                                 @Override
-                                public void error(VpnException e) {
+                                public void error(@NonNull VpnException e) {
                                     vpn_callback.vpn_final_callback("connect - stop fail " + e.getMessage());
                                 }
                             });
                         }
 
                         @Override
-                        public void error(VpnException e) {
+                        public void error(@NonNull VpnException e) {
                             vpn_callback.vpn_final_callback("connect - logout fail" + e.getMessage());
                         }
                     });
                 } else {
                     selectedCountry = Country;
-                    ArrayList arrayList = new ArrayList();
+                    ArrayList<String> arrayList = new ArrayList<>();
                     arrayList.add("hydra");
                     arrayList.add(OpenVpnTransport.TRANSPORT_ID_TCP);
                     arrayList.add(OpenVpnTransport.TRANSPORT_ID_UDP);
-                    LinkedList linkedList = new LinkedList();
+                    LinkedList<String> linkedList = new LinkedList<String>();
                     linkedList.add("*facebook.com");
                     linkedList.add("*wtfismyip.com");
                     unifiedSDK.getVpn().start(new SessionConfig.Builder().withReason(TrackingConstants.GprReasons.M_UI).withTransportFallback(arrayList).withTransport("hydra").withVirtualLocation(selectedCountry).addDnsRule(TrafficRule.Builder.bypass().fromDomains(linkedList)).build(), new CompletableCallback() {
@@ -161,7 +162,7 @@ public class BaseActivity extends AppCompatActivity {
                         }
 
                         @Override
-                        public void error(VpnException vpnException) {
+                        public void error(@NonNull VpnException vpnException) {
                             if (vpnException.getMessage() == null) {
                                 vpn_callback.vpn_final_callback("connect - connection fail " + vpnException.getMessage());
                             } else if (vpnException instanceof VpnPermissionDeniedException) {
@@ -193,7 +194,7 @@ public class BaseActivity extends AppCompatActivity {
             }
 
             @Override
-            public void failure(VpnException vpnException) {
+            public void failure(@NonNull VpnException vpnException) {
                 vpn_callback.vpn_final_callback("connect - connection fail " + vpnException.getMessage());
             }
         });
