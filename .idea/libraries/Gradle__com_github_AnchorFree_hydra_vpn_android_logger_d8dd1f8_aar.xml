@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnchorFree.hydra-vpn-android:logger:d8dd1f8@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2263206f617e3574fdd57b5e016fb06b/transformed/jetified-logger-d8dd1f8/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2263206f617e3574fdd57b5e016fb06b/transformed/jetified-logger-d8dd1f8/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2263206f617e3574fdd57b5e016fb06b/transformed/jetified-logger-d8dd1f8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b25c37ed0b73ae7ad33dbb0bbdc3cb82/transformed/jetified-logger-d8dd1f8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b25c37ed0b73ae7ad33dbb0bbdc3cb82/transformed/jetified-logger-d8dd1f8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b25c37ed0b73ae7ad33dbb0bbdc3cb82/transformed/jetified-logger-d8dd1f8/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnchorFree.hydra-vpn-android:reporting-constants:d8dd1f8@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f30d23d390a36e5e5b8985e53c2ab836/transformed/jetified-reporting-constants-d8dd1f8/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/124870b65a1cc01457859bffb9b3f10b/transformed/jetified-reporting-constants-d8dd1f8/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f30d23d390a36e5e5b8985e53c2ab836/transformed/jetified-reporting-constants-d8dd1f8/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f30d23d390a36e5e5b8985e53c2ab836/transformed/jetified-reporting-constants-d8dd1f8/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f30d23d390a36e5e5b8985e53c2ab836/transformed/jetified-reporting-constants-d8dd1f8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/124870b65a1cc01457859bffb9b3f10b/transformed/jetified-reporting-constants-d8dd1f8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/124870b65a1cc01457859bffb9b3f10b/transformed/jetified-reporting-constants-d8dd1f8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/124870b65a1cc01457859bffb9b3f10b/transformed/jetified-reporting-constants-d8dd1f8/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

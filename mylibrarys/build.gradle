@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.library'
 }
+
 def isLocalAppLovinWorkspace = file("../../../Android-SDK/build.gradle.kts").exists()
 
 android {
@@ -14,6 +15,10 @@ android {
         consumerProguardFiles "consumer-rules.pro"
     }
 
+    packagingOptions {
+        exclude 'META-INF/services/javax.annotation.processing.Processor'
+    }
+
     buildTypes {
         release {
             minifyEnabled false
@@ -24,6 +29,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+    
     if (isLocalAppLovinWorkspace) {
         flavorDimensions "default"
         productFlavors {

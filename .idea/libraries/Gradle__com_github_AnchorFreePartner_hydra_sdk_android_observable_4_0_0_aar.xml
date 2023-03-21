@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnchorFreePartner.hydra-sdk-android:observable:4.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/85b84edf2692a9a7ed95775fd8b34060/transformed/jetified-observable-4.0.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/85b84edf2692a9a7ed95775fd8b34060/transformed/jetified-observable-4.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/85b84edf2692a9a7ed95775fd8b34060/transformed/jetified-observable-4.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/62aba5b41c34ef222c2549f4acf50902/transformed/jetified-observable-4.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/62aba5b41c34ef222c2549f4acf50902/transformed/jetified-observable-4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/62aba5b41c34ef222c2549f4acf50902/transformed/jetified-observable-4.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

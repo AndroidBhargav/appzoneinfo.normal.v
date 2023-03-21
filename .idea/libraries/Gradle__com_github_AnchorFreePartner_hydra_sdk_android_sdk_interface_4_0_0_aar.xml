@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.AnchorFreePartner.hydra-sdk-android:sdk-interface:4.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/32a750d755c6b8c2130c26bbb885ccd0/transformed/jetified-sdk-interface-4.0.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c1c2a154a84ad8c0c4726e3aa64e0e8d/transformed/jetified-sdk-interface-4.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/32a750d755c6b8c2130c26bbb885ccd0/transformed/jetified-sdk-interface-4.0.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/32a750d755c6b8c2130c26bbb885ccd0/transformed/jetified-sdk-interface-4.0.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/32a750d755c6b8c2130c26bbb885ccd0/transformed/jetified-sdk-interface-4.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c1c2a154a84ad8c0c4726e3aa64e0e8d/transformed/jetified-sdk-interface-4.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c1c2a154a84ad8c0c4726e3aa64e0e8d/transformed/jetified-sdk-interface-4.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c1c2a154a84ad8c0c4726e3aa64e0e8d/transformed/jetified-sdk-interface-4.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
