@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
@@ -9,19 +12,18 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Ads_Project.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Ads_Project.app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/mylibrarys/Ads_Project.mylibrarys.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/mylibrarys/Ads_Project.mylibrarys.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/apk/debug/output-metadata.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/apk_ide_redirect_file/debug/redirect.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/apk_ide_redirect_file/debug/redirect.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeLibDexDebug/10/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeLibDexDebug/6/classes.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes2.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex" afterDir="false" />
@@ -48,30 +50,197 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/appzoneinfo/vip/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/appzoneinfo/vip/MainActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/appzoneinfo/vip/TestingActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/appzoneinfo/vip/TestingActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/signing_config_versions/debug/signing-config-versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/signing_config_versions/debug/signing-config-versions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mylibrarys/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/171d5324b7bbc89fba45f7b803a45dde/transformed/classes/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/.transforms/171d5324b7bbc89fba45f7b803a45dde/transformed/classes/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/aar_main_jar/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/intermediates/aar_main_jar/debug/classes.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/compile_library_classes_jar/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/intermediates/compile_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/2d414dd46453377d46c2d41323b76067/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/ProMex/classs/Utils/Util.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/ProMex/classs/Utils/apiii.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/AdsModal.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/AppOpenManager$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/AppOpenManager$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/AppOpenManager$OnAppOpenClose.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/AppOpenManager.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/AppOpenManager_LifecycleAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BannerClass$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BannerClass$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BannerClass$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BannerClass$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BannerClass$5.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BannerClass$6.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BannerClass$7.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BannerClass$8.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BannerClass$9.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BannerClass.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BaseActivity$1$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BaseActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BaseActivity$2$1$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BaseActivity$2$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BaseActivity$2$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BaseActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BaseActivity$vpn_callback.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BaseActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/CustomAdsInterActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/CustomAdsInterActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/CustomAdsInterActivity$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/CustomAdsInterActivity$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/CustomAdsInterActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass$10.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass$11.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass$12.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass$13.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass$5.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass$6.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass$7.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass$8.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass$9.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/InterClass.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/MyHelpers$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/MyHelpers$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/MyHelpers$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/MyHelpers.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass$10.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass$11.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass$12.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass$13.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass$5.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass$6.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass$7.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass$8.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass$9.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/NativeClass.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$10.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$11.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$12.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$13.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$14$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$14$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$14.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$15.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$16$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$16.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$17.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$3$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$5.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$6.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$7.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$8.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp$9.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SplashHelp.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/SystemUiManager.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/debug/com/appzone/mylibrarys/UpdateAppActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/.transforms/e779260a41384d9e111319fa28f51835/transformed/desugar_graph.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity$2$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity$2$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity$2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity$2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity$2$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/intermediates/javac/debug/classes/com/appzone/mylibrarys/BaseActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_jar/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_jar/debug/classes.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/build/outputs/aar/mylibrarys-debug.aar" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/outputs/aar/mylibrarys-debug.aar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mylibrarys/src/main/java/com/appzone/mylibrarys/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/mylibrarys/src/main/java/com/appzone/mylibrarys/BaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/META-INF/proguard/com.appzone.mylibrarys.AppOpenManager.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/ProMex/classs/Utils/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/ProMex/classs/Utils/apiii.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/AdsModal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/AppOpenManager$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/AppOpenManager$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/AppOpenManager$OnAppOpenClose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/AppOpenManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/AppOpenManager_LifecycleAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BannerClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BannerClass$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BannerClass$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BannerClass$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BannerClass$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BannerClass$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BannerClass$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BannerClass$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BannerClass$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BannerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BaseActivity$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BaseActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BaseActivity$2$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BaseActivity$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BaseActivity$2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BaseActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BaseActivity$vpn_callback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BaseActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/CustomAdsInterActivity$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/CustomAdsInterActivity$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/CustomAdsInterActivity$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/CustomAdsInterActivity$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/CustomAdsInterActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/InterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/MyHelpers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/MyHelpers$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/MyHelpers$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/MyHelpers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/NativeClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$14$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$14$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$16$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SplashHelp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/SystemUiManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mylibrarys/build/intermediates/runtime_library_classes_dir/debug/com/appzone/mylibrarys/UpdateAppActivity.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[8CHX1P9C2]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />

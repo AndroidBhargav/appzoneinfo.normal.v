@@ -55,7 +55,6 @@
         android:networkSecurityConfig="@xml/sdk_captive_portal_network_security"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.AdsProject"
         android:usesCleartextTraffic="true" >
         <activity
